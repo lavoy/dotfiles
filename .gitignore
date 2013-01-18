@@ -1,4 +1,15 @@
 *
-!.gitignore
-!.bash_profile
+!.*
 !README
+
+.*history*
+.*swp*
+.DS_Store
+.CFUserTextEncoding
+.Trash
+.lesshst
+.rnd
+.vim
+.viminfo
+
+
