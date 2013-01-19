@@ -1,13 +1,1 @@
-*
-!.*
-!README
-
-.*history*
-.*swp*
 .DS_Store
-.CFUserTextEncoding
-.Trash
-.lesshst
-.rnd
-.vim
-.viminfo
