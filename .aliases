@@ -3,6 +3,7 @@ alias aa='cd ~/Apple/'
 alias ist='cd ~/Apple/ISTCTF'
 alias sls='cd ~/Apple/SLSCTF'
 alias sfo='cd ~/Apple/SFO'
+alias sff='cd ~/Apple/SFF'
 
 alias updatesls='rm -rf ~/Apple/MyMessage/Frameworks/SLSCTF/*; cp -rf ~/Apple/SLSCTF/Release/ ~/Apple/MyMessage/Frameworks/SLSCTF/'
 
