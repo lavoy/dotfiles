@@ -1,6 +1,7 @@
 [user]
 	name = Andy LaVoy
-	email = lavoy.andy@gmail.com
+	email = andy@logcabinapps.com
+
 
 [credential]
 	helper = osxkeychain
