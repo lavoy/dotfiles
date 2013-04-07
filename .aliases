@@ -1,2 +1,6 @@
+alias ll='ls -alF'
+alias la='ls -A'
+alias l='ls -CF'
+
 alias gst='git st -sb'
 alias gad='git add -A'
