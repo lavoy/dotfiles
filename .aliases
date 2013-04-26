@@ -4,3 +4,4 @@ alias l='ls -CF'
 
 alias gst='git st -sb'
 alias gad='git add -A'
+alias gpoh='git push origin HEAD'
